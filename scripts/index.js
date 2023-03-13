@@ -1,9 +1,11 @@
-const myCarouselElement = document.querySelector('#myCarousel');
+/*
+const myCarouselElement = document.querySelector('#testimonials');
 
 const carousel = new bootstrap.Carousel(myCarouselElement, {
   interval: 2000,
   touch: false
 });
+*/
 
 function maleQuiz() {
     $('#quiz').html(`
