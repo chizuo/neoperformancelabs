@@ -7,12 +7,6 @@ body {
     margin: 0;
 }
 
-.btn:hover {
-    background-color: #CE1126 !important;
-    box-shadow: 0px 12px 24px black;
-    transform: translateY(-3px)
-}
-
 .menubtn:hover {
     background-color: #AEC6CF !important;
     box-shadow: 0px 12px 24px black;
@@ -27,4 +21,8 @@ body {
  
 #icon {
     height: 18px;
+}
+
+.testimonial-images {
+    width: 100px;
 }
